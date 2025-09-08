@@ -10,3 +10,8 @@
 
 Para **freelancers** cujo problema é a dificuldade em **receber** o pagamento por horas trabalhadas em diversos projetos de desenvolvimento de software. O Freelasys é uma **aplicação web** que **simplifica** o registro e a cobrança dessas horas. Diferentemente das soluções tradicionais que exigem uma combinação de ferramentas — como planilhas, agendas eletrônicas e o portal do governo —, o Freelasys oferece uma plataforma unificada que otimiza o fluxo de cobrança, reduzindo o tempo de recebimento e aumentando a precisão das horas registradas em projetos.
 
+## Produto É-Não-É-Faz-NãoFaz
+* **O produto é** uma aplicação web com planos de assinaturas
+* **O produto não é** gratuito, cronomêtro pomodoro, contador fiscal,agenda de reuniões.
+* **O produto faz** registro de horas trabalhadas, aprovação de pagamento, emissão de nota fiscal, rastreamento de recebimento de nota fiscal.
+* **O produto não faz** estimativa de custos de projeto.
